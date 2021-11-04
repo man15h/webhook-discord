@@ -3,7 +3,7 @@
   "version": "3.7.8",
   "main": "./lib/webhook",
   "dependencies": {
-    "snekfetch": "^3.6.4"
+    "axios": "^0.24.0"
   },
   "scripts": {
     "test": "eslint ."
@@ -12,7 +12,7 @@
   "description": "A simple Javascript file for nicely formatting Discord webhooks",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jb3/webhook-discord.git"
+    "url": "git+https://github.com/jb3/webhook-discord"
   },
   "keywords": [
     "Webhooks",

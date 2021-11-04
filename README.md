@@ -4,10 +4,12 @@
 
 A simple Javascript file for nicely formatting Discord webhooks
 
-See the full documentation at [jb3.github.io/webhook-discord](https://jb3.github.io/webhook-discord)
-
 ## Usage
 It's simple
+
+```
+yarn add https://github.com/man15h/webhook-discord
+```
 
 To initialise:
 ```js
